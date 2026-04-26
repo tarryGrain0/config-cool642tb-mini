@@ -58,7 +58,7 @@
         NAV {
             bindings = <
 &kp F1     &kp F2     &kp F3      &kp F4     &kp F5                                 &kp F6           &kp F7        &kp F8        &kp F9       &kp F10
-&trans     &trans     &trans      &trans     &trans    &kp F11        &kp HOME       &kp LEFT         &kp DOWN      &kp UP_ARROW  &kp RIGHT    &kp END
+&kp LEFT_GUI &kp LEFT_ALT &kp LEFT_CONTROL &kp LSHIFT &trans    &kp F11        &kp HOME       &kp LEFT         &kp DOWN      &kp UP_ARROW  &kp RIGHT    &kp END
 &trans     &trans     &trans      &trans     &trans    &kp F12        &kp PAGE_UP    &kp LC(LEFT)     &kp LC(DOWN)  &kp LC(UP_ARROW) &kp LC(RIGHT) &kp PAGE_DOWN
 &trans     &trans     &trans      &trans     &trans    &mo L_ADJUST   &trans         &trans                                                 &trans
             >;
