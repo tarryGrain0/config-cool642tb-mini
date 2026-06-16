@@ -1,0 +1,1860 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="832" height="2480" viewBox="0 0 832 2480" role="img" aria-label="cool642tb-mini keymap">
+<title>cool642tb-mini keymap</title>
+<style>
+  :root { color-scheme: light; }
+  svg { background: #ffffff; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .title { fill: #17202a; font-size: 16px; font-weight: 700; }
+  .key rect { fill: #f8fafc; stroke: #9aa4b2; stroke-width: 1.2; }
+  .key.mod-tap rect { fill: #f2f7ff; }
+  .key.layer-tap rect, .key.layer rect { fill: #eef8f4; }
+  .key.mouse rect { fill: #fff5e9; }
+  .key.system rect { fill: #f7f1ff; }
+  .key.trans rect { fill: #fbfbfb; stroke: #d7dce2; stroke-dasharray: 4 3; }
+  .key.none rect { fill: #ffffff; stroke: #e2e5e9; }
+  .tap { fill: #17202a; font-size: 11px; font-weight: 650; text-anchor: middle; dominant-baseline: middle; }
+  .hold { fill: #46515f; font-size: 8.5px; font-weight: 600; text-anchor: middle; dominant-baseline: middle; }
+  .key.trans text, .key.none text { opacity: 0.35; }
+  .combo rect { fill: #fff4c7; stroke: #c18a10; stroke-width: 1; }
+  .combo text { fill: #5f4100; font-size: 8px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+</style>
+<g class="layer" data-layer="layer0">
+  <text class="title" x="24" y="42">layer0</text>
+<g class="key">
+  <rect x="24" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="80.5">Q</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="80.5">W</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="80.5">E</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="80.5">R</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="80.5">T</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="80.5">Y</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="80.5">U</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="80.5">I</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="80.5">O</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="54" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="80.5">P</tspan></text>
+
+</g>
+<g class="key mod-tap">
+  <rect x="24" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="135.5">A</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="50.5" y="156">Win</tspan></text>
+</g>
+<g class="key mod-tap">
+  <rect x="82.17" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="135.5">S</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="108.67" y="156">Alt</tspan></text>
+</g>
+<g class="key mod-tap">
+  <rect x="140.29" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="135.5">D</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="166.79" y="156">Ctrl</tspan></text>
+</g>
+<g class="key mod-tap">
+  <rect x="198.46" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="135.5">F</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="224.96" y="156">Shift</tspan></text>
+</g>
+<g class="key">
+  <rect x="256.64" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="138.5">G</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="314.87" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.37" y="132.73">Ctrl</tspan><tspan x="341.37" y="144.28">Shift+Y</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="138.5">Print</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="138.5">H</tspan></text>
+
+</g>
+<g class="key mod-tap">
+  <rect x="575.35" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="135.5">J</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="601.85" y="156">RShift</tspan></text>
+</g>
+<g class="key mod-tap">
+  <rect x="633.52" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="135.5">K</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="660.02" y="156">RCtrl</tspan></text>
+</g>
+<g class="key mod-tap">
+  <rect x="691.7" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="135.5">L</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="718.2" y="156">RAlt</tspan></text>
+</g>
+<g class="key layer-tap">
+  <rect x="749.81" y="112" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="135.5">;</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="776.31" y="156">layer4</tspan></text>
+</g>
+<g class="key">
+  <rect x="24" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="196.5">Z</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="196.5">X</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="196.5">C</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="196.5">V</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="196.5">B</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="314.75" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.25" y="196.5">Ctrl</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="196.5">Esc</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="196.5">N</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="196.5">M</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="196.5">,</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="196.5">.</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="170" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="196.5">/</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="24" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="254.5">Tab</tspan></text>
+
+</g>
+<g class="key layer">
+  <rect x="82.17" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="251.5">layer1</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="108.67" y="272">MO</tspan></text>
+</g>
+<g class="key">
+  <rect x="140.29" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="254.5">Shift</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="254.5">Cmd</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="254.5">Space</tspan></text>
+
+</g>
+<g class="key layer">
+  <rect x="314.75" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.25" y="251.5">layer2</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="341.25" y="272">MO</tspan></text>
+</g>
+<g class="key">
+  <rect x="459.06" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="254.5">Bksp</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="254.5">Enter</tspan></text>
+
+</g>
+<g class="key layer">
+  <rect x="749.81" y="228" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="251.5">layer4</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="776.31" y="272">MO</tspan></text>
+</g>
+<g class="combo">
+<line x1="198.38" y1="126" x2="169.29" y2="125" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="126" x2="227.46" y2="125" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="117" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="126.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="126" x2="604.35" y2="125" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="126" x2="662.52" y2="125" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="117" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="126.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer1">
+  <text class="title" x="24" y="352">layer1</text>
+<g class="key">
+  <rect x="24" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="390.5">F1</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="390.5">F2</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="390.5">F3</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="390.5">F4</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="390.5">F5</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="390.5">F6</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="390.5">F7</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="390.5">F8</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="390.5">F9</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="364" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="390.5">F10</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="24" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="448.5">Ctrl</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="448.5">Alt</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="448.5">Ctrl</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="448.5">Shift</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="422" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="314.87" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.37" y="448.5">F11</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="448.5">Home</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="448.5">Left</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="448.5">Down</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="448.5">Up</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="448.5">Right</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="422" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="448.5">End</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="24" y="480" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="480" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="480" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="480" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="480" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="314.75" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.25" y="506.5">F12</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="506.5">PgUp</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="500.73">Ctrl</tspan><tspan x="543.73" y="512.28">Left</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="500.73">Ctrl</tspan><tspan x="601.85" y="512.28">Down</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="506.5">Ctrl+Up</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="500.73">Ctrl</tspan><tspan x="718.2" y="512.28">Right</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="480" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="506.5">PgDn</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="24" y="538" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="538" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="538" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="198.46" y="538" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="564.5">Cmd</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="538" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="558.73">Shift</tspan><tspan x="283.14" y="570.28">Space</tspan></text>
+
+</g>
+<g class="key layer">
+  <rect x="314.75" y="538" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.25" y="561.5">layer3</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="341.25" y="582">MO</tspan></text>
+</g>
+<g class="key">
+  <rect x="459.06" y="538" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="558.73">Cmd</tspan><tspan x="485.56" y="570.28">Bksp</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="538" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="564.5">Enter</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="538" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="436" x2="169.29" y2="435" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="436" x2="227.46" y2="435" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="427" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="436.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="436" x2="604.35" y2="435" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="436" x2="662.52" y2="435" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="427" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="436.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer2">
+  <text class="title" x="24" y="662">layer2</text>
+<g class="key">
+  <rect x="24" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="700.5">1</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="700.5">2</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="700.5">3</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="700.5">4</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="700.5">5</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="700.5">6</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="700.5">7</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="700.5">8</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="700.5">9</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="674" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="700.5">0</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="24" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="758.5">Shift+!</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="758.5">@</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="758.5">Shift+#</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="758.5">Shift+$</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="758.5">Shift+%</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="314.87" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.37" y="758.5">_</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="758.5">+</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="758.5">^</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="758.5">&amp;</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="758.5">*</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="758.5">Shift+(</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="732" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="758.5">Shift+)</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="24" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="816.5">'</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="82.17" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="816.5">Shift+{</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="140.29" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="816.5">[</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="198.46" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="816.5">Shift+&lt;</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="256.64" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="816.5">Shift+&quot;</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="314.75" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.25" y="816.5">\</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="459.06" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="816.5">|</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="816.5">Shift+&quot;</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="575.35" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="816.5">Shift+&gt;</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="633.52" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="660.02" y="816.5">]</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="691.7" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="816.5">Shift+}</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="790" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="816.5">-</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="24" y="848" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key layer">
+  <rect x="82.17" y="848" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="871.5">layer3</tspan></text>
+  <text class="hold" style="font-size:8.5px"><tspan x="108.67" y="892">MO</tspan></text>
+</g>
+<g class="key trans">
+  <rect x="140.29" y="848" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="848" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="848" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="848" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="459.06" y="848" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="485.56" y="874.5">Bksp</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="517.23" y="848" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="543.73" y="874.5">Enter</tspan></text>
+
+</g>
+<g class="key">
+  <rect x="749.81" y="848" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="874.5">_</tspan></text>
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="746" x2="169.29" y2="745" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="746" x2="227.46" y2="745" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="737" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="746.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="746" x2="604.35" y2="745" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="746" x2="662.52" y2="745" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="737" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="746.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer3">
+  <text class="title" x="24" y="972">layer3</text>
+<g class="key system">
+  <rect x="24" y="984" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="1010.5">BT 0</tspan></text>
+
+</g>
+<g class="key system">
+  <rect x="82.17" y="984" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="108.67" y="1010.5">BT 1</tspan></text>
+
+</g>
+<g class="key system">
+  <rect x="140.29" y="984" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="166.79" y="1010.5">BT 2</tspan></text>
+
+</g>
+<g class="key system">
+  <rect x="198.46" y="984" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="224.96" y="1010.5">BT 3</tspan></text>
+
+</g>
+<g class="key system">
+  <rect x="256.64" y="984" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="283.14" y="1010.5">BT 4</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="984" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="984" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="984" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="984" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="984" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key system">
+  <rect x="24" y="1042" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="50.5" y="1068.5">BT CLR</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="314.87" y="1042" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="341.37" y="1068.5">Mute</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key mouse">
+  <rect x="575.35" y="1042" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="1068.5">M1</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key mouse">
+  <rect x="691.7" y="1042" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="1068.5">M2</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1042" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1100" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1158" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key">
+  <rect x="749.81" y="1158" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="776.31" y="1178.72">RShift</tspan><tspan x="776.31" y="1190.27">Cmd</tspan></text>
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="1056" x2="169.29" y2="1055" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="1056" x2="227.46" y2="1055" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="1047" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="1056.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="1056" x2="604.35" y2="1055" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="1056" x2="662.52" y2="1055" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="1047" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="1056.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer4">
+  <text class="title" x="24" y="1282">layer4</text>
+<g class="key trans">
+  <rect x="24" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1294" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.87" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key mouse">
+  <rect x="575.35" y="1352" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="601.85" y="1378.5">M1</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key mouse">
+  <rect x="691.7" y="1352" width="53" height="53" rx="6" ry="6"/>
+  <text class="tap" style="font-size:11px"><tspan x="718.2" y="1378.5">M2</tspan></text>
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1352" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1410" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1468" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="1366" x2="169.29" y2="1365" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="1366" x2="227.46" y2="1365" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="1357" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="1366.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="1366" x2="604.35" y2="1365" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="1366" x2="662.52" y2="1365" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="1357" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="1366.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer5">
+  <text class="title" x="24" y="1592">layer5</text>
+<g class="key trans">
+  <rect x="24" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1604" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.87" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1662" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1720" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1778" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="1676" x2="169.29" y2="1675" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="1676" x2="227.46" y2="1675" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="1667" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="1676.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="1676" x2="604.35" y2="1675" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="1676" x2="662.52" y2="1675" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="1667" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="1676.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer6">
+  <text class="title" x="24" y="1902">layer6</text>
+<g class="key trans">
+  <rect x="24" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1914" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.87" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="1972" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2030" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2088" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="1986" x2="169.29" y2="1985" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="1986" x2="227.46" y2="1985" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="1977" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="1986.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="1986" x2="604.35" y2="1985" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="1986" x2="662.52" y2="1985" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="1977" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="1986.5">Lang1</text>
+</g>
+</g>
+<g class="layer" data-layer="layer7">
+  <text class="title" x="24" y="2212">layer7</text>
+<g class="key trans">
+  <rect x="24" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2224" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.87" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2282" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="575.35" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="633.52" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="691.7" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2340" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="24" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="82.17" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="140.29" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="198.46" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="256.64" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="314.75" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="459.06" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="517.23" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="key trans">
+  <rect x="749.81" y="2398" width="53" height="53" rx="6" ry="6"/>
+
+
+</g>
+<g class="combo">
+<line x1="198.38" y1="2296" x2="169.29" y2="2295" stroke="#d6aa36" stroke-width="1"/>
+<line x1="198.38" y1="2296" x2="227.46" y2="2295" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="178.13" y="2287" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="198.38" y="2296.5">Lang2</text>
+</g>
+<g class="combo">
+<line x1="633.43" y1="2296" x2="604.35" y2="2295" stroke="#d6aa36" stroke-width="1"/>
+<line x1="633.43" y1="2296" x2="662.52" y2="2295" stroke="#d6aa36" stroke-width="1"/>
+  <rect x="613.18" y="2287" width="40.5" height="18" rx="5" ry="5"/>
+  <text x="633.43" y="2296.5">Lang1</text>
+</g>
+</g>
+</svg>
