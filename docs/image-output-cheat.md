@@ -33,9 +33,10 @@
 | `layer2` | `CODE` |  |
 | `layer3` | `ADJUST` |  |
 | `layer4` | `MOUSE` |  |
-| `layer5` | `SCROLL` |  |
-| `layer6` | `layer_6` | `LAYER 6` |
-| `layer7` | `layer_7` | `LAYER 7` |
+| `layer5` | `WINDOWS` |  |
+| `layer6` | `WIN_NAV` | `WIN NAV` |
+| `layer7` | `WIN_ADJUST` | `WIN ADJUST` |
+| `layer8` | `WIN_CODE` | `WIN CODE` |
 
 ## 入力ファイルを変える
 
@@ -86,4 +87,3 @@ brew install librsvg
 | `Layer ... has ... keys, but layout has ... keys.` | keymap の binding 数と layout JSON のキー数が一致しているか確認 |
 | PNG が粗い | `brew install librsvg` 後に `--png-engine rsvg` で再出力 |
 | 指定した PNG エンジンで失敗する | `--png-engine auto` か `--png-engine bitmap` に切り替える |
-

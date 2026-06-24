@@ -1,6 +1,12 @@
 cool642tb_mini専用ファームウェアリポジトリ
 forkしてから使用してください。
 
+## OSモード
+
+起動時はmacOSモードです。ADJUSTレイヤー右手側の先頭キー（表示は `TOG layer5`）でWindowsモードを切り替えます。
+
+Windowsモードでは、macOSでCommandとして使うキーとショートカットをCtrlへ置き換えます。現在の対象はCommandのモディファイアキー、`Command+Backspace`、`Right Shift+Command`です。
+
 ## キーマップ確認画像の生成
 
 コマンドだけ確認したい場合は [画像出力コマンド チートシート](docs/image-output-cheat.md) を見てください。
