@@ -80,10 +80,10 @@
 
         NAV {
             bindings = <
-&kp EXCLAMATION   &kp AT_SIGN   &kp HASH          &kp DOLLAR        &kp PERCENT                                            &kp CARET             &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LSHIFT        &trans         &kp F11           &kp NON_US_BACKSLASH  &kp NON_US_BACKSLASH  &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp MINUS
-&trans            &trans        &trans            &trans            &trans         &kp F12           &kp PAGE_UP           &kp LC(LEFT)          &kp LC(DOWN)   &kp LC(UP_ARROW)  &kp LC(RIGHT)         &kp PAGE_DOWN
-&trans            &trans        &trans            &kp LEFT_COMMAND  &kp LS(SPACE)  &mo L_ADJUST      &kp LG(BACKSPACE)     &kp ENTER                                                                    &trans
+&kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT                          &kp CARET             &kp AMPERSAND  &kp ASTERISK      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&trans           &trans       &trans    &trans      &trans       &trans      &kp GRAVE   &kp NON_US_BACKSLASH  &kp EQUAL      &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &kp MINUS
+&kp LEFT_SHIFT   &trans       &trans    &trans      &trans       &trans      &kp ESCAPE  &trans                &trans         &trans            &kp SEMICOLON         &kp SQT
+&trans           &trans       &trans    &trans      &trans       &trans      &trans      &trans                                                                       &trans
             >;
         };
 
